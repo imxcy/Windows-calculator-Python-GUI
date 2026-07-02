@@ -21,7 +21,7 @@ python calculator.py
 
 **浏览器路径：** 默认 `C:\Program Files\Google\Chrome\Application\chrome.exe`，如路径不同请修改脚本中的 `BROWSER_PATH`。
 
-## 截图
+## 演示
 
 <img width="730" height="1030" alt="QQ20260702-150010" src="https://github.com/user-attachments/assets/84c54edf-50c6-4eec-9e8f-30833062d43c" />
 
