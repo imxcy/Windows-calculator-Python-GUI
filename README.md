@@ -20,3 +20,7 @@ python calculator.py
 **依赖：** Python 3.8+，仅需标准库（`tkinter`）。
 
 **浏览器路径：** 默认 `C:\Program Files\Google\Chrome\Application\chrome.exe`，如路径不同请修改脚本中的 `BROWSER_PATH`。
+
+## 截图
+
+<img width="1854" height="902" alt="image" src="https://github.com/user-attachments/assets/862cac0c-c377-4ade-8f4f-f234c9560139" />
