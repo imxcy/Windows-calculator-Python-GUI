@@ -24,3 +24,6 @@ python calculator.py
 ## 截图
 
 <img width="382" height="612" alt="acb5ce3f-2652-4893-8129-368915bbbab0" src="https://github.com/user-attachments/assets/78968931-05fd-427c-b0b4-377100160c57" />
+
+<img width="730" height="1030" alt="QQ20260702-150010" src="https://github.com/user-attachments/assets/84c54edf-50c6-4eec-9e8f-30833062d43c" />
+
